@@ -1,7 +1,12 @@
 
-h1,h2,p,li {
+h2,p,li {
    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
    }
 
  p,li {font-size:18px;}
-     
+
+
+.header{font-family : calibri;}
+.leftAlign {width:20%;
+            float:left;}
+.content {width:60%;}
